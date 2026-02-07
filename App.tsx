@@ -18,7 +18,7 @@ import {
 
 // --- Configuration ---
 // ADICIONE SEU LINK DE CHECKOUT AQUI
-const CHECKOUT_URL = "https://pay.hotmart.com/SEU_ID_AQUI"; 
+const CHECKOUT_URL = "https://pay.cakto.com.br/z4bgk8c_757597"; 
 
 // --- Reusable Components ---
 
